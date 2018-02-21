@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<project name="Git" default="CloneApplication">
+	<target name="CloneApplication">
+	
+	   <exec dir="." executable="cmd" >
+			<arg line="/c git add ."/>
+		</exec>
+		 <exec dir="." executable="cmd" >
+			<arg line="/c git commit -m 'changes'"/>
+		</exec>
+		
+		<exec dir="." executable="cmd" >
+			<arg line="/c git push https://BalipalliGayathri:gayathri9@github.com/BalipalliGayathri/Repo.git --all"/>
+		</exec>
+		
+		
+	</target>
+	
+</project>
