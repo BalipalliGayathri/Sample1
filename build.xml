@@ -10,7 +10,7 @@
 		</exec>
 		
 		<exec dir="." executable="cmd" >
-			<arg line="/c git push https://BalipalliGayathri:gayathri9@github.com/BalipalliGayathri/Repo.git --all"/>
+			<arg line="/c git push origin master"/>
 		</exec>
 		
 		
