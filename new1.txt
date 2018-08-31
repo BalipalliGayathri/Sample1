@@ -1,0 +1,34 @@
+Github concepts:
+
+1.branch heiraechy
+2.Issue tracking
+3.Email notification
+4.Branch deletion
+
+  i.First we created an organization, Reasons behind that At any time, all members of an organization can add new repositories,
+   and members with owner or admin permissions can transfer existing repositories.
+   By default, all organization members can create repositories for the organization and transfer repositories into the organization. 
+   If you choose, you can restrict repository creation permissions to organization owners only.
+   
+   Groups of people can collaborate across many projects at the same time in organization accounts.
+ 
+ ii.When you transfer a repository to a new owner, they can immediately administer the repository's contents, issues, pull requests, releases, and settings.
+
+2.Issue Tracking: We collect user feedback via a central bug tracker. GitHub's tracker is called "Issues," and can be used with every repository.
+Issues,it is just a place to report software bugs. As a project maintainer, you can use Issues to organize tasks you'd like to accomplish,
+such as adding new features or auditing old ones. You can associate issues with pull requests, so that when you merge a pull request, your issue will automatically close. If you're using a project board to track and prioritize your work, you can see what project board an issue is a part of by viewing the project board section within the issue.
+
+You can opt to receive notifications whenever an issue is updated with a new comment so that you're always in the loop. You can also report a comment that violates GitHub's Community Guidelines. For more information, see Reporting abuse or spam
+
+Issues can also be assigned to other users, tagged with labels for quicker searching, and grouped together with milestones.
+
+3.Email notification:When the finial comment is happened, then automatically sent the email notification to partical person
+
+4.Branch deletion:when the limit is crossed, then branches will delete automatically through the 
+
+
+ZSEUEDRDYU
+
+270198
+C:\Program Files\Apache Software Foundation\Tomcat 8.5\bin
+

@@ -1,0 +1,5 @@
+git push https://rajasekharbejawada:Miracle1@github.com/rajasekharbejawada/gitsample.git --all
+
+git push --set-upstream https://pame:Miracle123@gitlab.com/pame/DP_Artifacts.git master
+
+git push https://BalipalliGayathri:gayathri9@github.com/BalipalliGayathri/Repo.git --all
