@@ -11,9 +11,6 @@
 		
 		<exec dir="." executable="cmd" >
 			<arg line="/c git push origin master"/>
-		</exec>
-		
-		
+		</exec>	
 	</target>
-	
 </project>
