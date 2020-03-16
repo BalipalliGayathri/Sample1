@@ -26,6 +26,7 @@ Issues can also be assigned to other users, tagged with labels for quicker searc
 
 4.Branch deletion:when the limit is crossed, then branches will delete automatically through the 
 
+5.line added
 
 ZSEUEDRDYU
 
